@@ -1,5 +1,6 @@
 package com.example.demo.service;
 
+import com.example.demo.dto.StudentDTO;
 import com.example.demo.entity.Student;
 import com.example.demo.respository.StudentRepository;
 import org.springframework.stereotype.Service;
@@ -13,7 +14,10 @@ public class StudentService {
         this.repository = repository;
     }
 
-    public Student createStudent(Student student){
+    public Student createStudent(StudentDTO dto){
+        Student student = new Student();
+        student.setName(dto.getName());
+        student.setAge(dto.getAge());
         return repository.save(student);
     }
 
