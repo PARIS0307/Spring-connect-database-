@@ -1,0 +1,34 @@
+Send me this report on every Tuesday to Saturday 4 am.
+
+
+△ Date: hours spent (eg; 8.8 Fri: 10h)
+
+- Account: hours spent
+
+  o Discord (name or nickname): sent / discuss / success
+  o LinkedIn (name): sent / discuss / success
+  o ...
+
+- Bid: hours spent
+
+  o Upwork (name): sent / discuss / hired
+  o Freelancer (name): sent / discuss / hired
+  o LinkedIn (name): applied / interview / hired
+  o ...
+
+- Task: hours spent
+
+  o Project Name (client name): hours spent
+  o ...
+
+- Study: hours spent
+
+  o Asp.Net (Udemy): hours spent
+  o Move (ChatGpt): hours spent
+  o React Native (reactnative.dev): hours spent
+  o ...
+
+- Other: hours spent
+
+  o ...
+

@@ -1,0 +1,14 @@
+- name: Agus Prasetyo ,  country: Indonesia
+    Email: AgusPrasetyoer0307@proton.me
+    Username: AgusPrasetyo0307
+    Password: AgusPrasetyo0307!
+    Displayname: AgusPrasetyo0307
+    City: Bandung
+    Province (State): West Java (Jawa Barat)
+    ZIP Code: 40115
+    Phone:+62 812-3456-7890
+    Company:Nusantara Digital Solutions//Jl. Jenderal Sudirman No. 88, Suite 12A/Kebayoran Baru/Jakarta Selatan 12190
+                    Junior Software Engineer	
+Git hub address
+    Email address: AgusPrasetyoer0307@proton.me
+    Password: AgusPrasetyoer0307@proton.me!

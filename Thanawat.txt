@@ -1,0 +1,52 @@
+Thanawat Chaiyaporn Feb 20, 1996
+	304, Min Buri, Bangkok, Thailand zip:10510
+	Horse02242@outlook.com Horse02201
+Marcus Lim Jun Hao
+	Block 304, Bukit Batok Street 31,   Singapore, Singapore 650304
+
+
+Actualize Consulting    Reston Virginia, USA Jan 2021 ~ Dec 2025
+    Senior Full Stack Engineer / AI Engineer
+	Maintain secure backend systems and APIs using Node.js, Python, or .NET, integrating AI-driven features. 
+	Deploy and manage applications on AWS and Kubernetes, build CI/CD pipelines, and automate infrastructure with Terraform. 
+	Develop cybersecurity solutions for government clients, leveraging AI for threat detection, while supporting scalable cloud architectures, databases, and messaging systems (Kafka/RabbitMQ)
+BreakPoint Labs   Herndon, Virginia, USA June 2018 ~ Sep 2020
+    Backend / Cloud Engineer
+	DBuilt secure backend systems using Python (FastAPI) and .NET Core
+	Developed microservices architecture with Docker & Kubernetes
+	Implemented authentication systems (JWT, OAuth)
+	Managed cloud infrastructure (AWS, Azure)
+	Built real-time data pipelines using Kafka and RabbitMQ
+	Set up monitoring (Prometheus, Grafana)
+	Supported security-focused applications and compliance requirements
+FinTech Company   Bangkok,Thailand    Mar 2015 – Agu 2017
+   Software Engineer
+	Developed web applications using Angular and Node.js
+	Built APIs and managed MySQL/PostgreSQL databases
+	Integrated payment gateways and financial services APIs
+	Improved system performance and scalability
+Education
+National University of Singapore  Master of Computing (Computer Science) Api 2016~ Jul 2018
+Nanyang Technological University     Bachelor of Engineering in Computer Engineering  Feb 2011 ~ Sep 2015
+
+I left my company to focus on freelancing full-time. I wanted more flexibility and the chance to work on different kinds of projects.
+
+
+
+
+Full Stack Engineer | Backend Focus
+
+Full Stack Engineer with a backend focus, building scalable APIs, microservices, and cloud-based systems.
+
+Experienced in Node.js, Python, Java, and .NET, with a strong background in AWS, Docker, and Kubernetes. I write clean, reliable code and design systems that perform well under real-world conditions.
+
+I can step into existing projects or build from scratch, delivering solutions that are stable, maintainable, and ready to scale.
+
+
+Full Stack Engineer | AI Developer
+
+Full Stack Engineer with a strong focus on AI-driven applications, building scalable APIs, intelligent systems, and cloud-based solutions.
+
+Experienced in Node.js, Python, Java, and .NET, with a solid background in AWS, Docker, Kubernetes, and integrating AI/ML capabilities into production systems. I write clean, reliable code and design systems that perform well under real-world conditions.
+
+I can step into existing projects or build from scratch, delivering solutions that are stable, maintainable, and ready to scale.

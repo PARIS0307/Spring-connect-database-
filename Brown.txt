@@ -1,0 +1,44 @@
+Howard L. Brown April 10, 1996
+	275 Johnny Lane
+	Milwaukee, Wisconsin 53224
+	visa: 4916 1363 7290 7516
+	Horse02228@outlook.com Horse02201
+
+
+BreakPoint Labs     Virginia, USA Jan 2023 ~ Dec 2025
+	Senior Full Stack Engineer / AI Developer
+	Maintain secure backend systems and APIs using Node.js, Python, or .NET, integrating AI-driven features. Deploy and manage applications on AWS and Kubernetes, build CI/CD pipelines, and automate infrastructure with Terraform. Develop cybersecurity solutions for government clients, leveraging AI for threat detection, while supporting scalable cloud architectures, databases, and messaging systems (Kafka/RabbitMQ).
+Actualize Consulting   Virginia, USA June 2018 ~ Sep 2022
+	Software Engineer
+	Develop and maintain backend systems and APIs (Node.js, Python, .NET) and build modern frontend applications using React, Next.js, or Angular.
+	Work on financial platforms (banking, mortgage, risk systems), handling data processing, UI dashboards, and automation. Deploy solutions on AWS/Azure with CI/CD pipelines and ensure scalability, performance, and compliance.
+
+Education
+Swarthmore College     Swarthmore, Pennsylvania  Bachelor of Computer Science  Api 2019 ~ Jul 2023
+Harvey Mudd College    Claremont, California  Bachelor of Computer Science  Api 2015 ~ Jul 2017
+
+
+I left my company to focus on freelancing full-time. I wanted more flexibility and the chance to work on different kinds of projects.
+
+
+
+
+Full Stack Engineer | Backend Focus
+
+Full Stack Engineer with a backend focus, building scalable APIs, microservices, and cloud-based systems.
+
+Experienced in Node.js, Python, Java, and .NET, with a strong background in AWS, Docker, and Kubernetes. I write clean, reliable code and design systems that perform well under real-world conditions.
+
+I can step into existing projects or build from scratch, delivering solutions that are stable, maintainable, and ready to scale.
+
+
+
+
+
+Full Stack Engineer | AI Developer
+
+Full Stack Engineer with a strong focus on AI-driven applications, building scalable APIs, intelligent systems, and cloud-based solutions.
+
+Experienced in Node.js, Python, Java, and .NET, with a solid background in AWS, Docker, Kubernetes, and integrating AI/ML capabilities into production systems. I write clean, reliable code and design systems that perform well under real-world conditions.
+
+I can step into existing projects or build from scratch, delivering solutions that are stable, maintainable, and ready to scale.

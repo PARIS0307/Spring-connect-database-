@@ -1,0 +1,16 @@
+Mason Thompson
+United States, 07/03/2000
+
+Email:MasonThompson2000@outlook.com
+password:Blue$Car84!Sun
+
+git add .
+git commit -m "Update message"
+git push
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin REPO_URL
+git branch -M main
+git push -u origin main

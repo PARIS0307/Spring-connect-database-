@@ -1,0 +1,33 @@
+Marcus Lim Jun Hao
+	Block 304, Bukit Batok Street 31,   Singapore, Singapore 650304
+
+
+
+SoftBank Group   Singapore, Singapore June 2021 ~ Dec 2025
+    Senior Full Stack Engineer / AI Engineer
+	Maintain secure backend systems and APIs using Node.js, Python, or .NET, integrating AI-driven features. 
+	Deploy and manage applications on AWS and Kubernetes, build CI/CD pipelines, and automate infrastructure with Terraform. 
+	Develop cybersecurity solutions for government clients, leveraging AI for threat detection, while supporting scalable cloud architectures, databases, and messaging systems (Kafka/RabbitMQ)
+Zalora Tech    Singapore, Singapore Jan 2015 ~ Sep 2020
+    Backend / Cloud Engineer
+	DBuilt secure backend systems using Python (FastAPI) and .NET Core
+	Developed microservices architecture with Docker & Kubernetes
+	Implemented authentication systems (JWT, OAuth)
+	Managed cloud infrastructure (AWS, Azure)
+	Built real-time data pipelines using Kafka and RabbitMQ
+	Set up monitoring (Prometheus, Grafana)
+	Supported security-focused applications and compliance requirements
+
+Education
+	National University of Singapore  Master of Computing (Computer Science) Api 2016~ Jul 2018
+	Nanyang Technological University     Bachelor of Engineering in Computer Engineering  Feb 2011 ~ Sep 2015
+
+
+
+Full Stack Engineer | AI Developer
+
+Full Stack Engineer with a strong focus on AI-driven applications, building scalable APIs, intelligent systems, and cloud-based solutions.
+
+Experienced in Node.js, Python, Java, and .NET, with a solid background in AWS, Docker, Kubernetes, and integrating AI/ML capabilities into production systems. I write clean, reliable code and design systems that perform well under real-world conditions.
+
+I can step into existing projects or build from scratch, delivering solutions that are stable, maintainable, and ready to scale.

@@ -1,0 +1,26 @@
+Sergio Navarro
+	Paseo de Gracia 101,  Barcelona  Catalonia, Spain, 08008
+
+
+Abalit Technologies  Barcelona   Catalonia  Jan 2023 ~ Dec 2025
+	Senior Full Stack Engineer / AI Developer
+	Maintain secure backend systems and APIs using Node.js, Python, or .NET, integrating AI-driven features. Deploy and manage applications on AWS and Kubernetes, build CI/CD pipelines, and automate infrastructure with Terraform. Develop cybersecurity solutions for government clients, leveraging AI for threat detection, while supporting scalable cloud architectures, databases, and messaging systems (Kafka/RabbitMQ).
+
+
+Cositt Technology    Málaga    Andalucía   June 2018 ~ Sep 2022
+	Software Engineer
+	Develop and maintain backend systems and APIs (Node.js, Python, .NET) and build modern frontend applications using React, Next.js, or Angular.
+	Work on financial platforms (banking, mortgage, risk systems), handling data processing, UI dashboards, and automation. Deploy solutions on AWS/Azure with CI/CD pipelines and ensure scalability, performance, and compliance.
+
+
+Education
+IE University   Madrid   Bachelor of Computer Science & Artificial Intelligence   Api 2015 ~ Jul 2019
+
+
+Full Stack Engineer | AI Developer
+
+Full Stack Engineer with a strong focus on AI-driven applications, building scalable APIs, intelligent systems, and cloud-based solutions.
+
+Experienced in Node.js, Python, Java, and .NET, with a solid background in AWS, Docker, Kubernetes, and integrating AI/ML capabilities into production systems. I write clean, reliable code and design systems that perform well under real-world conditions.
+
+I can step into existing projects or build from scratch, delivering solutions that are stable, maintainable, and ready to scale.
